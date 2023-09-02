@@ -1,4 +1,4 @@
-### Check out demonstration video: https://drive.google.com/file/d/1LzK1LctUPiOb95TgEFrpWCDrldf8oBv_/view
+### Check out this app's demonstration video here: https://drive.google.com/file/d/1LzK1LctUPiOb95TgEFrpWCDrldf8oBv_/view
 
 ---
 
