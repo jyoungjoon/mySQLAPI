@@ -1,4 +1,4 @@
-### Check out demonstration video: [https://drive.google.com/](https://drive.google.com/file/d/1LzK1LctUPiOb95TgEFrpWCDrldf8oBv_/view)
+### Check out demonstration video: https://drive.google.com/file/d/1LzK1LctUPiOb95TgEFrpWCDrldf8oBv_/view
 
 ---
 
