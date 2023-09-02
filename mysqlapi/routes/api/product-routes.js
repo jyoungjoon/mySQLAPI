@@ -35,12 +35,13 @@ router.get('/:id', async (req, res) => {
 
 router.post('/', async (req, res) => {
   try {
-    const { product_name, price, stock, tagIds } = req.body;
+    const { product_name, price, stock, category_id, tagIds } = req.body;
 
     const newProduct = await Product.create({
       product_name,
       price,
       stock,
+      category_id,
     });
 
     if (tagIds && tagIds.length) {

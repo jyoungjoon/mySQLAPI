@@ -12,9 +12,9 @@
 
 ![Screenshot](./assets/images/screenshot.png)
 
-```
+
 This is an Express.js application with Sequelize for managing products, categories, and tags. It uses MySQL for database and api platform such as Insomnia/Postman for testing api endpoints. It also uses dotenv for environment variables. It can be used to create, read, update, and delete products, categories, and tags. It also has a seed file to seed the database with sample data.
-```
+
 
 ---
 
